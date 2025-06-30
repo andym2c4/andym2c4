@@ -4,10 +4,31 @@ I'm a mechatronic engineering at Universidad Nacional de Ingeniería of Perú.
 
 ## My Skills Include
 
-<h4> Languages </h4>
+<h4> Stack </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,docker,c,vim,azure,cpp,clion,css,github,php,laravel,matlab" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,r,py,jquery,js,html,docker,c,cpp,css,php,laravel" />
+  </a>
+</p>
+
+<h4> DB </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  </a>
+</p>
+
+<h4> Data management </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+</p>
+
+<h4> Software, IDs </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,vscode,vim,sublime,pycharm,powershell,postman,phpstorm,notion,matlab,latex,figma,eclipse" />
   </a>
 </p>
 <!--
