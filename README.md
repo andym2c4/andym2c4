@@ -21,7 +21,7 @@ I'm a mechatronic engineering at Universidad Nacional de Ingeniería of Perú.
 <h4> Data management </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
   </a>
 </p>
 
