@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Andy,
-I'm a mechatronic engineering at Universidad Nacional de Ingeniería of Perú.
+I'm a mechatronics engineer at Universidad Nacional de Ingeniería of Perú.
 - 🌱 I’m currently learning Stadisticts and Data Science.
 
 ## My Skills Include
