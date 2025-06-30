@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Andy,
 I'm a mechatronics engineer at Universidad Nacional de Ingeniería of Perú.
-- 🌱 I’m currently learning Stadisticts and Data Science.
+- 🌱 I’m currently learning Statistics and Data Science.
 
 ## My Skills Include
 
