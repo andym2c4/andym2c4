@@ -7,7 +7,7 @@ I'm a mechatronic engineering at Universidad Nacional de Ingeniería of Perú.
 <h4> Languages </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,docker,c,vim,azure,cpp,clion,css,github,php,laravel,matlab" />
   </a>
 </p>
 <!--
