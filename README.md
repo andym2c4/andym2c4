@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Andy,
+I'm a mechatronic engineering at Universidad Nacional de Ingeniería of Perú.
+- 🌱 I’m currently learning Stadisticts and Data Science.
 
+## My Skills Include
+
+<h4> Languages </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!--
 **andym2c4/andym2c4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
