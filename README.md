@@ -1,4 +1,4 @@
-# Andy Montes Chuñocca
+# Andy Montes
 
 **Data Science · Machine Learning · Ingeniería de datos**
 
